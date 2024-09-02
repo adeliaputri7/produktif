@@ -51,7 +51,7 @@
         <Button
             android:id="@+id/login"
             android:layout_width="286dp"
-            android:layout_height="wrap_content"
+            android:layout_height="74dp"
             android:text="Button" />
     </LinearLayout>
 
